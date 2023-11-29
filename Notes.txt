@@ -1,0 +1,16 @@
+limit number of words - 25 - to average number
+take in text data from previou sessions
+
+make latest text to have higher weightage
+average out the results
+more than 0.5 = suicidal
+
+or average the results then combine with image data
+
+takes output from model 1 - times weightage - times accuracy
+takes output from model 2 - times weightage - times accuracy
+
+
+TODO
+- preprocess input words also
+- k-fold validation
