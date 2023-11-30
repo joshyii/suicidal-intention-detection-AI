@@ -14,3 +14,4 @@ takes output from model 2 - times weightage - times accuracy
 TODO
 - preprocess input words also
 - k-fold validation
+- latest text with higher weightage - find distribution function for this
